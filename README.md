@@ -76,7 +76,7 @@ Like taking a clone, you can do this from the command line `git checkout -b MyNe
 
 ![GIT Branch Image](Materials/GITBranch.png)
 
-Once you have a branch, create ANY file in your directory. I dont mind what it is. Copy and paste an image from the internet. Create a text file saying Hi. Do whatever. Just put it in your folder, use `git add` to add the file to your branch, use `git commit -m "Message about what you've done"` to make a commit, and then finally use `git push` to push the change to Origin. 
+Once you have a branch, create ANY file into a folder named after yourself. I dont mind what it is. Copy and paste an image from the internet. Create a text file saying Hi. Do whatever. Just put it in your folder, use `git add` to add the file to your branch, use `git commit -m "Message about what you've done"` to make a commit, and then finally use `git push` to push the change to Origin. 
 
 This is basically just syncing what's on your PC (referred to as local) with what's on the repo that we can all see (called remote)
 
