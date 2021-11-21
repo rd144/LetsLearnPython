@@ -38,8 +38,9 @@ The skills I'll look to cover include:
 
 After you are able to do all this pretty well we an try and do a project together on a common interest and see what we can build.
 
-#Lessons
-##Lesson 0 - Setup
+# Lessons
+
+## Lesson 0 - Setup
 Ok, the first thing I want you to do is to get setup in an evnironment in which you can code.
 
 There are a number of youtube videos that will show you how to get setup in PyCharm ([Link](https://www.youtube.com/results?search_query=setting+up+pycharm+for+python)).
@@ -54,7 +55,7 @@ Getting set up is usually painful unfortunately, but it is done very infrequentl
 
 Once your setup you let me know, and feel free to move onto Lesson 1
 
-##Lesson 1 - GIT and Hello World
+## Lesson 1 - GIT and Hello World
 
 Okay, now you're setup the first thing we're going to do is take a clone of the Repo ([LetsLearnPython](https://github.com/rd144/LetsLearnPython)) so we can begin to create some code there.
 
