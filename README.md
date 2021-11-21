@@ -55,7 +55,7 @@ Getting set up is usually painful unfortunately, but it is done very infrequentl
 
 Once your setup you let me know, and feel free to move onto Lesson 1
 
-### - State at End of Lesson
+### State at End of Lesson
 
 - [ ] - GIT Installed
 - [ ] - Coding Environment Installed
@@ -84,7 +84,7 @@ Once the file is on remote (you'll be able to see the branch listed [here](https
 
 If you want to work with GIT through the command line, or understand what PyCharm is doing in the background, [this cheatsheet](https://wac-cdn.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?cdnVersion=99) is a pretty helpful reference tool
 
-### - State at End of Lesson
+### State at End of Lesson
 
 - [ ] - Repo Cloned
 - [ ] - Personal Branch Created
