@@ -57,8 +57,8 @@ Once your setup you let me know, and feel free to move onto Lesson 1
 
 ### - State at End of Lesson
 
-[] - GIT Installed
-[] - Coding Environment Installed
+- [ ] - GIT Installed
+- [ ] - Coding Environment Installed
 
 ## Lesson 1 - GIT and Hello World
 
@@ -86,8 +86,8 @@ If you want to work with GIT through the command line, or understand what PyChar
 
 ### - State at End of Lesson
 
-- [] - Repo Cloned
-- [] - Personal Branch Created
-- [] - File Added through GIT
-- [] - Commit made
-- [] - File Pushed to Origin
+- [ ] - Repo Cloned
+- [ ] - Personal Branch Created
+- [ ] - File Added through GIT
+- [ ] - Commit made
+- [ ] - File Pushed to Origin
