@@ -288,6 +288,6 @@ print(result_1,result_2)
 
 **Task:** Make a method that can add, subtract, divide, and multiply a result and return it.
 
-##Resources
+## Resources
 
 1. https://www.w3resource.com/python-exercises/ - A good website with exercises you can practice
